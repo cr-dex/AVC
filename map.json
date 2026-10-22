@@ -1,0 +1,13 @@
+{
+  "test": {
+    "name": "test",
+    "version": "1.0.0",
+    "description": "Uploaded via AVC",
+    "file": "test.avc",
+    "protected": true,
+    "sha256": "52b72b59dadfc827132eb3b30b8cabf3a4e706756a128eb968abad55c2f79ee3",
+    "size": 1554,
+    "uploaded_by": "cr-dex",
+    "updated_at": "2026-10-22 19:54:35"
+  }
+}
