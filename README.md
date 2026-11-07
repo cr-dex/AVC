@@ -24,7 +24,9 @@ let a Name’s Project is ( test )
 ![avc init](guide/init.jpg)
 
 
-| `build test` | Build project into `.avc` |
+🧱 `build test` Build project to `.avc`
+![avc build](guide/build.gif)
+
 | `install <file.avc>` | Install local package |
 | `uninstall <name>` | Remove installed package |
 | `list` | Show installed packages |
