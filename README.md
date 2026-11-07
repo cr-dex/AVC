@@ -1,8 +1,8 @@
 # AVC UI
-
-**Package Manager for Termux**  
 The better alternative to deb
 fast build - fast get - fast share
+![AVC Logo](guide/logo.jpg)
+
 ---
 
 ### Developers
@@ -13,8 +13,7 @@ AVC solve problems of deb
 3. easy to share ( free - paid for you )
 4. less space - less RAM - more stable
 5. auto security & encryption
-
-**6. ENV command line**
+6. ENV command line (work with avcui)
 ---
 
 ### Commands
@@ -22,6 +21,7 @@ AVC solve problems of deb
 let a Name’s Project is ( test )
 
 🚀 `init test` => Create new tree for test project
+![avc init](guide/init.jpg)
 
 
 | `build test` | Build project into `.avc` |
