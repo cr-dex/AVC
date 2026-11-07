@@ -1,20 +1,19 @@
 # AVC
 
 **Package Manager for Termux**  
-The better alternative to deb • Built to improve
-
+The better alternative to deb
+fast build - fast get - fast share
 ---
 
 ### Developers
 **VIRUS & CR_DEX**
-
----
-
-### Function & Overview
-Modern package manager built specifically for Termux.  
-Faster, cleaner and more secure alternative to the traditional deb system.  
-Includes an isolated interactive environment called **AVCUI**.
-
+AVC solve problems of deb
+1. easy to build App
+2. easy to install without errors
+3. easy to share ( free - paid for you )
+4. less space - less RAM - more stable
+5. auto security & encryption
+**6. ENV command line**
 ---
 
 ### Commands
