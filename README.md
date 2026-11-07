@@ -1,4 +1,4 @@
-# AVC
+# AVC UI
 
 **Package Manager for Termux**  
 The better alternative to deb
