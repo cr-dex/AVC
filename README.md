@@ -13,15 +13,18 @@ AVC solve problems of deb
 3. easy to share ( free - paid for you )
 4. less space - less RAM - more stable
 5. auto security & encryption
+
 **6. ENV command line**
 ---
 
 ### Commands
 
-| Command | Description |
-|---------|-------------|
-| `init <name>` | Create new project |
-| `build <folder>` | Build project into `.avc` |
+let a Name’s Project is ( test )
+
+🚀 `init test` => Create new tree for test project
+
+
+| `build test` | Build project into `.avc` |
 | `install <file.avc>` | Install local package |
 | `uninstall <name>` | Remove installed package |
 | `list` | Show installed packages |
